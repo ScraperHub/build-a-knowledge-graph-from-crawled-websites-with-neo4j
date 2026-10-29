@@ -1,0 +1,10 @@
+{
+  "status_code": 520,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "cb_status": "0",
+    "original_status": "308",
+    "url": "https://www.close.com/integrations"
+  },
+  "body": "Request failed, with status codes original\\_status: 0 and pc\\_status: 0. Please try the request again, as this one is not charged, or contact support if the problem persists. If you want close to 100% success, try our Crawler which is normally included in the same price: https://crawlbase.com/docs/crawler"
+}

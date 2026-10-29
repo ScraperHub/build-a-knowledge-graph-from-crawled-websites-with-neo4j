@@ -1,0 +1,56 @@
+{
+  "companies": [
+    {
+      "name": "Pipedrive",
+      "source_quote": "Pipedrive lets you track your sales pipeline, optimize leads, manage deals with AI and automate your entire sales process so you can focus on selling."
+    }
+  ],
+  "people": [
+    {
+      "name": "Nirmal Gyanwali",
+      "source_quote": "**Nirmal Gyanwali** Managing Director, Nirmal Web Studio",
+      "title": "Managing Director",
+      "employer": "Nirmal Web Studio"
+    },
+    {
+      "name": "Suds Singh",
+      "source_quote": "**Suds Singh** Founder and MD, Interesting Content",
+      "title": "Founder and MD",
+      "employer": "Interesting Content"
+    },
+    {
+      "name": "Franziska Palumbo-Seidel",
+      "source_quote": "**Franziska Palumbo-Seidel** CEO and Founder, Key Search",
+      "title": "CEO and Founder",
+      "employer": "Key Search"
+    }
+  ],
+  "products": [
+    {
+      "name": "Nova",
+      "source_quote": "Introducing Nova, Pipedrive’s latest feature."
+    }
+  ],
+  "integrations": [],
+  "locations": [],
+  "relationships": [
+    {
+      "source": "Nirmal Gyanwali",
+      "type": "WORKS_AT",
+      "target": "Nirmal Web Studio",
+      "source_quote": "**Nirmal Gyanwali** Managing Director, Nirmal Web Studio"
+    },
+    {
+      "source": "Suds Singh",
+      "type": "WORKS_AT",
+      "target": "Interesting Content",
+      "source_quote": "**Suds Singh** Founder and MD, Interesting Content"
+    },
+    {
+      "source": "Franziska Palumbo-Seidel",
+      "type": "WORKS_AT",
+      "target": "Key Search",
+      "source_quote": "**Franziska Palumbo-Seidel** CEO and Founder, Key Search"
+    }
+  ]
+}

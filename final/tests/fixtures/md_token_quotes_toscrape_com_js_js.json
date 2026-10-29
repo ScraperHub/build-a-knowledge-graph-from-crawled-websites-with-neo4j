@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "cb_status": "200",
+    "original_status": "200",
+    "url": "https://quotes.toscrape.com/js/"
+  },
+  "body": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”by Albert Einstein\n\n“It is our choices, Harry, that show what we truly are, far more than our abilities.”by J.K. Rowling\n\n“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”by Albert Einstein\n\n“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”by Jane Austen\n\n“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”by Marilyn Monroe\n\n“Try not to become a man of success. Rather become a man of value.”by Albert Einstein\n\n“It is better to be hated for what you are than to be loved for what you are not.”by André Gide\n\n“A day without sunshine is like, you know, night.”by Steve Martin"
+}

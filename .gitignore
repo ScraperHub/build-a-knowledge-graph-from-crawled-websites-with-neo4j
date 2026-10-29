@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Local crawl and LLM caches
+.cache/
+steps/.cache/
+final/.cache/
+final/output/
+
+# Logs
+*.log

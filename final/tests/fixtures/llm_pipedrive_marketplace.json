@@ -1,0 +1,70 @@
+{
+  "companies": [
+    {
+      "name": "Pipedrive",
+      "source_quote": "100,000+ users across the globe are scaling their business with Pipedrive marketplace"
+    }
+  ],
+  "people": [],
+  "products": [],
+  "integrations": [
+    {
+      "name": "WhatsApp Business",
+      "source_quote": "Manage WhatsApp conversations directly in Pipedrive and link chats directly to deals."
+    },
+    {
+      "name": "Surfe",
+      "source_quote": "Surfe saves you time and improves your outreach by bringing Pipedrive on top of LinkedIn."
+    },
+    {
+      "name": "Apollo.io",
+      "source_quote": "Find and close your next deal with Apollo’s end-to-end sales platform – powered by the most accurate B2B data with 275M+ contacts and 73M+ companies."
+    },
+    {
+      "name": "Zapier",
+      "source_quote": "Zapier automatically moves info between Pipedrive and the other apps you use every day – so you can focus on your most important work."
+    },
+    {
+      "name": "Microsoft Teams",
+      "source_quote": "Get Pipedrive updates in Teams, and schedule and join video meetings from Pipedrive. Keep your team ready to close that next big deal."
+    },
+    {
+      "name": "Google Meet",
+      "source_quote": "Manage, schedule and launch Google Meet calls from Pipedrive to streamline your sales communication."
+    },
+    {
+      "name": "DocuSign",
+      "source_quote": "Simplify and accelerate the time to reach an agreement by creating DocuSign envelopes in Pipedrive."
+    },
+    {
+      "name": "PandaDoc - Proposals, e-signatures, and CPQ",
+      "source_quote": "PandaDoc's document automation and CPQ solution streamlines creating, configuring, pricing, quoting, approving and eSigning proposals and contracts."
+    },
+    {
+      "name": "QuickBooks",
+      "source_quote": "Forget about lengthy accounting processes and simplify your invoice creation with the QuickBooks - Pipedrive integration."
+    },
+    {
+      "name": "Stripe",
+      "source_quote": "Track, create & sync Stripe Customers and the Invoices & Payments associated with them to efficiently manage your finances."
+    },
+    {
+      "name": "Asana",
+      "source_quote": "The Pipedrive-Asana automatically creates an Asana task or project when you start, close or move a deal to a selected stage in your sales pipeline."
+    },
+    {
+      "name": "Trello",
+      "source_quote": "Trello’s boards, lists and cards allow you to organize and prioritize your projects in a fun, flexible and rewarding way."
+    },
+    {
+      "name": "CloudTalk: AI Dialer & CTI for Pipedrive",
+      "source_quote": "Dial 10x faster with AI Sales Dialer. Auto-log calls, recordings, and AI sentiment to Deals. Local numbers in 160+ countries."
+    },
+    {
+      "name": "Zendesk",
+      "source_quote": "Sync Zendesk and Pipedrive to know who to contact and quickly create tickets or deals."
+    }
+  ],
+  "locations": [],
+  "relationships": []
+}

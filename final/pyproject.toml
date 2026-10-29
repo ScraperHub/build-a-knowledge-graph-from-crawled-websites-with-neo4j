@@ -1,0 +1,29 @@
+[project]
+name = "kg-pipeline"
+version = "1.0.0"
+description = "Build a knowledge graph from crawled company websites with Crawlbase, an LLM, and Neo4j."
+requires-python = ">=3.11"
+dependencies = [
+    "crawlbase==1.1.0",
+    "httpx==0.28.1",
+    "neo4j==6.4.1",
+    "openai==3.41.0",
+    "pydantic==2.14.1",
+    "rapidfuzz==3.14.6",
+    "python-dotenv==1.2.4",
+    "networkx==3.7",
+]
+
+[project.scripts]
+kg = "kg_pipeline.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["kg_pipeline"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: live tests that call Crawlbase, OpenAI, and Neo4j (deselect with -m \"not integration\")"]

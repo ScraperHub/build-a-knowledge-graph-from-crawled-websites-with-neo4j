@@ -1,0 +1,1853 @@
+[
+  {
+    "company": "Basecamp",
+    "url": "https://basecamp.com/",
+    "rid": "274b36b9501e0c02227cc206",
+    "extracted_at": "2026-10-29T08:36:41+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Basecamp",
+          "source_quote": "So we invented Basecamp, and have been improving it ever since."
+        }
+      ],
+      "people": [
+        {
+          "name": "Jason Fried",
+          "source_quote": "Jason Fried, jason@basecamp.com Co-founder & CEO",
+          "title": "Co-founder & CEO",
+          "employer": "Basecamp"
+        }
+      ],
+      "products": [
+        {
+          "name": "Basecamp 5",
+          "source_quote": "in 2026 we released the all-new Basecamp 5"
+        }
+      ],
+      "integrations": [],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Basecamp",
+          "type": "OFFERS",
+          "target": "Basecamp 5",
+          "source_quote": "in 2026 we released the all-new Basecamp 5"
+        },
+        {
+          "source": "Jason Fried",
+          "type": "WORKS_AT",
+          "target": "Basecamp",
+          "source_quote": "Jason Fried, jason@basecamp.com Co-founder & CEO"
+        }
+      ]
+    },
+    "kept": 3,
+    "dropped": []
+  },
+  {
+    "company": "Basecamp",
+    "url": "https://basecamp.com/about",
+    "rid": "53152543821ab90a54e2c902",
+    "extracted_at": "2026-10-29T08:36:43+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Basecamp",
+          "source_quote": "the business that makes Basecamp"
+        }
+      ],
+      "people": [
+        {
+          "name": "Jason Fried",
+          "source_quote": "I’m Jason Fried, one of the co-founders here.",
+          "title": "co-founder",
+          "employer": "Basecamp"
+        }
+      ],
+      "products": [
+        {
+          "name": "Basecamp",
+          "source_quote": "maybe this is a product for others, and not just for us?"
+        }
+      ],
+      "integrations": [],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Jason Fried",
+          "type": "WORKS_AT",
+          "target": "Basecamp",
+          "source_quote": "I’m Jason Fried, one of the co-founders here."
+        },
+        {
+          "source": "Basecamp",
+          "type": "OFFERS",
+          "target": "Basecamp",
+          "source_quote": "maybe this is a product for others, and not just for us?"
+        }
+      ]
+    },
+    "kept": 5,
+    "dropped": []
+  },
+  {
+    "company": "Basecamp",
+    "url": "https://basecamp.com/integrations",
+    "rid": "926838ed43e47a194dd8f3cb",
+    "extracted_at": "2026-10-29T08:36:57+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Basecamp",
+          "source_quote": "Get more out of Basecamp with 3rd party tools!"
+        }
+      ],
+      "people": [],
+      "products": [],
+      "integrations": [
+        {
+          "name": "Stripe",
+          "source_quote": "Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more."
+        },
+        {
+          "name": "Slack",
+          "source_quote": "Share your team’s Basecamp activity in Slack and Google Hangouts Chat."
+        },
+        {
+          "name": "Salesforce",
+          "source_quote": "Connect Basecamp to Salesforce and 3,100+ apps."
+        },
+        {
+          "name": "Todoist",
+          "source_quote": "Manage and update your Basecamp to-dos from your Todoist or Wunderlist."
+        },
+        {
+          "name": "Zapier",
+          "source_quote": "Automate your work day and connect Basecamp to 750+ business apps."
+        },
+        {
+          "name": "Jira",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "name": "Evernote",
+          "source_quote": "Automatically get Evernote & OneNote checklists and tasks in Basecamp."
+        },
+        {
+          "name": "Google Hangouts Chat",
+          "source_quote": "Share your team’s Basecamp activity in Slack and Google Hangouts Chat."
+        },
+        {
+          "name": "Trello",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "name": "Asana",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "name": "GitHub",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "name": "GitLab",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "name": "Bitbucket",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "name": "Harvest",
+          "source_quote": "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+        },
+        {
+          "name": "Dropbox",
+          "source_quote": "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+        },
+        {
+          "name": "Clockify",
+          "source_quote": "Track Your Basecamp Card Table (Kanban) Time Using Clockify."
+        },
+        {
+          "name": "Instabug",
+          "source_quote": "Receive detailed bug reports from your mobile app directly to Basecamp to-dos with Instabug."
+        },
+        {
+          "name": "Honeybadger",
+          "source_quote": "Use Honeybadger to get Campfire alerts about application errors, missing cron jobs, and downtime in your quest to be DevOps champions."
+        },
+        {
+          "name": "Sentry",
+          "source_quote": "Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more."
+        },
+        {
+          "name": "Raygun",
+          "source_quote": "Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more."
+        },
+        {
+          "name": "ClicData",
+          "source_quote": "100% cloud-based business intelligence and data warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
+        },
+        {
+          "name": "Toggl",
+          "source_quote": "Track time effortlessly with Toggl Button integration for Chrome and Firefox — the simplest time tracker to help you get things done."
+        },
+        {
+          "name": "TeamRetro",
+          "source_quote": "Easily run insightful retrospectives and team health checks with your agile teams, and publish your action items as Basecamp tasks in your to-do’s."
+        },
+        {
+          "name": "Claritee",
+          "source_quote": "Claritee enables professionals to easily ideate, plan and collaborate on digital projects and assets."
+        },
+        {
+          "name": "Ziflow",
+          "source_quote": "Ziflow automates file processing tasks and processes that you’d prefer to give to a robot."
+        },
+        {
+          "name": "Akita",
+          "source_quote": "Monitor the status of your Basecamp projects in Akita’s powerful Customer Success Manage Platform."
+        },
+        {
+          "name": "Deskpro",
+          "source_quote": "Link your Basecamp cards to your Deskpro tickets to streamline communication with users by making them easy to view and update."
+        },
+        {
+          "name": "EvantoDesk",
+          "source_quote": "Convert emails into to-dos, assign to-dos, mark as done in Basecamp when resolved in EvantoDesk (and vice-versa) and fire automations in EvantoDesk and more."
+        },
+        {
+          "name": "FlowEQ",
+          "source_quote": "FlowEQ is a no-code workflow solution that embeds within your current systems and accelerates your teams."
+        },
+        {
+          "name": "Userback",
+          "source_quote": "Give users the right tools to collaborate and provide valuable feedback for you to manage."
+        },
+        {
+          "name": "SaberFeedback",
+          "source_quote": "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button."
+        },
+        {
+          "name": "Project Management Relokia",
+          "source_quote": "Automated way to migrate your project management system data."
+        },
+        {
+          "name": "Nusii",
+          "source_quote": "Proposal software that enables you to create Basecamp projects from signed proposals and automatically attach the signed proposal as a PDF directly within your Basecamp projects."
+        },
+        {
+          "name": "Proposify",
+          "source_quote": "Generate projects from accepted proposals and more. Import all your contacts and automatically generate a Basecamp project from a won proposal."
+        },
+        {
+          "name": "Apideck",
+          "source_quote": "Apideck helps developers build native integrations faster through one API."
+        },
+        {
+          "name": "OAuth.io",
+          "source_quote": "OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
+        },
+        {
+          "name": "Truto",
+          "source_quote": "Unified and proxy APIs for ticketing. Use Truto to build native integrations faster."
+        },
+        {
+          "name": "Viasocket",
+          "source_quote": "Make Your Apps Chat & Dance Together with 6000+ Apps!"
+        }
+      ],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Stripe",
+          "source_quote": "Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Slack",
+          "source_quote": "Share your team’s Basecamp activity in Slack and Google Hangouts Chat."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Salesforce",
+          "source_quote": "Connect Basecamp to Salesforce and 3,100+ apps."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Todoist",
+          "source_quote": "Manage and update your Basecamp to-dos from your Todoist or Wunderlist."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Zapier",
+          "source_quote": "Automate your work day and connect Basecamp to 750+ business apps."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Jira",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Evernote",
+          "source_quote": "Automatically get Evernote & OneNote checklists and tasks in Basecamp."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Google Hangouts Chat",
+          "source_quote": "Share your team’s Basecamp activity in Slack and Google Hangouts Chat."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Trello",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Asana",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "GitHub",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "GitLab",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Bitbucket",
+          "source_quote": "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Harvest",
+          "source_quote": "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Dropbox",
+          "source_quote": "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Clockify",
+          "source_quote": "Track Your Basecamp Card Table (Kanban) Time Using Clockify."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Instabug",
+          "source_quote": "Receive detailed bug reports from your mobile app directly to Basecamp to-dos with Instabug."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Honeybadger",
+          "source_quote": "Use Honeybadger to get Campfire alerts about application errors, missing cron jobs, and downtime in your quest to be DevOps champions."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Sentry",
+          "source_quote": "Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Raygun",
+          "source_quote": "Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "ClicData",
+          "source_quote": "100% cloud-based business intelligence and data warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Toggl",
+          "source_quote": "Track time effortlessly with Toggl Button integration for Chrome and Firefox — the simplest time tracker to help you get things done."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "TeamRetro",
+          "source_quote": "Easily run insightful retrospectives and team health checks with your agile teams, and publish your action items as Basecamp tasks in your to-do’s."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Claritee",
+          "source_quote": "Claritee enables professionals to easily ideate, plan and collaborate on digital projects and assets."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Ziflow",
+          "source_quote": "Ziflow automates file processing tasks and processes that you’d prefer to give to a robot."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Akita",
+          "source_quote": "Monitor the status of your Basecamp projects in Akita’s powerful Customer Success Manage Platform."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Deskpro",
+          "source_quote": "Link your Basecamp cards to your Deskpro tickets to streamline communication with users by making them easy to view and update."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "EvantoDesk",
+          "source_quote": "Convert emails into to-dos, assign to-dos, mark as done in Basecamp when resolved in EvantoDesk (and vice-versa) and fire automations in EvantoDesk and more."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "FlowEQ",
+          "source_quote": "FlowEQ is a no-code workflow solution that embeds within your current systems and accelerates your teams."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Userback",
+          "source_quote": "Give users the right tools to collaborate and provide valuable feedback for you to manage."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "SaberFeedback",
+          "source_quote": "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Project Management Relokia",
+          "source_quote": "Automated way to migrate your project management system data."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Nusii",
+          "source_quote": "Proposal software that enables you to create Basecamp projects from signed proposals and automatically attach the signed proposal as a PDF directly within your Basecamp projects."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Proposify",
+          "source_quote": "Generate projects from accepted proposals and more. Import all your contacts and automatically generate a Basecamp project from a won proposal."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Apideck",
+          "source_quote": "Apideck helps developers build native integrations faster through one API."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "OAuth.io",
+          "source_quote": "OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Truto",
+          "source_quote": "Unified and proxy APIs for ticketing. Use Truto to build native integrations faster."
+        },
+        {
+          "source": "Basecamp",
+          "type": "INTEGRATES_WITH",
+          "target": "Viasocket",
+          "source_quote": "Make Your Apps Chat & Dance Together with 6000+ Apps!"
+        }
+      ]
+    },
+    "kept": 39,
+    "dropped": []
+  },
+  {
+    "company": "HEY",
+    "url": "https://www.hey.com/",
+    "rid": "268330a24ba3c4892f75f5c1",
+    "extracted_at": "2026-10-29T08:36:59+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "HEY",
+          "source_quote": "HEY is our love letter to email and calendars, and we’re sending it to you on the Web, Mac, Windows, Linux, iOS, and Android."
+        }
+      ],
+      "people": [
+        {
+          "name": "Jason Fried",
+          "source_quote": "Jason Fried Co-founder & CEO",
+          "title": "Co-founder & CEO",
+          "employer": "HEY"
+        }
+      ],
+      "products": [
+        {
+          "name": "HEY",
+          "source_quote": "With HEY, we’ve done just that. It’s a redo, a rethink, a simplified, potent reintroduction of email."
+        }
+      ],
+      "integrations": [],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "HEY",
+          "type": "OFFERS",
+          "target": "HEY",
+          "source_quote": "With HEY, we’ve done just that. It’s a redo, a rethink, a simplified, potent reintroduction of email."
+        },
+        {
+          "source": "Jason Fried",
+          "type": "WORKS_AT",
+          "target": "HEY",
+          "source_quote": "Jason Fried Co-founder & CEO"
+        }
+      ]
+    },
+    "kept": 3,
+    "dropped": []
+  },
+  {
+    "company": "Pipedrive",
+    "url": "https://www.pipedrive.com/",
+    "rid": "9d591bde8081a645488fab7f",
+    "extracted_at": "2026-10-29T08:37:03+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Pipedrive",
+          "source_quote": "Pipedrive lets you track your sales pipeline, optimize leads, manage deals with AI and automate your entire sales process so you can focus on selling."
+        }
+      ],
+      "people": [],
+      "products": [
+        {
+          "name": "Nova",
+          "source_quote": "Introducing Nova, Pipedrive’s latest feature."
+        }
+      ],
+      "integrations": [],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Pipedrive",
+          "type": "OFFERS",
+          "target": "Nova",
+          "source_quote": "Introducing Nova, Pipedrive’s latest feature."
+        }
+      ]
+    },
+    "kept": 5,
+    "dropped": [
+      {
+        "kind": "relationship",
+        "name": "Nirmal Gyanwali WORKS_AT Nirmal Web Studio",
+        "quote": "**Nirmal Gyanwali** Managing Director, Nirmal Web Studio",
+        "reason": "missing endpoint"
+      },
+      {
+        "kind": "relationship",
+        "name": "Suds Singh WORKS_AT Interesting Content",
+        "quote": "**Suds Singh** Founder and MD, Interesting Content",
+        "reason": "missing endpoint"
+      },
+      {
+        "kind": "relationship",
+        "name": "Franziska Palumbo-Seidel WORKS_AT Key Search",
+        "quote": "**Franziska Palumbo-Seidel** CEO and Founder, Key Search",
+        "reason": "missing endpoint"
+      }
+    ]
+  },
+  {
+    "company": "Pipedrive",
+    "url": "https://www.pipedrive.com/en/about",
+    "rid": "c9f728ee09bac67561fba0dc",
+    "extracted_at": "2026-10-29T08:37:14+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Pipedrive",
+          "source_quote": "Pipedrive is designed to help small businesses grow."
+        },
+        {
+          "name": "Vista Equity Partners",
+          "source_quote": "Backed by global investment firm Vista Equity Partners"
+        }
+      ],
+      "people": [
+        {
+          "name": "Paulo Cunha",
+          "source_quote": "Paulo Cunha Pipedrive CEO",
+          "title": "CEO",
+          "employer": "Pipedrive"
+        }
+      ],
+      "products": [
+        {
+          "name": "CRM",
+          "source_quote": "Pipedrive is the easy and effective CRM for small and medium-sized companies."
+        }
+      ],
+      "integrations": [],
+      "locations": [
+        {
+          "name": "New York",
+          "source_quote": "Pipedrive Inc. 530 Fifth Avenue, 8th floor, Suite 802 New York, NY 10036",
+          "country": "United States"
+        },
+        {
+          "name": "St. Petersburg",
+          "source_quote": "Pipedrive Inc. 333 3rd Avenue North, Suite 500C St. Petersburg, FL 33701",
+          "country": "United States"
+        },
+        {
+          "name": "Tallinn",
+          "source_quote": "Pipedrive OÜ Mustamäe tee 3a 10615 Tallinn, Harju maakond",
+          "country": "Estonia"
+        },
+        {
+          "name": "Tartu",
+          "source_quote": "Pipedrive OÜ Paju 2 Tartu 50603",
+          "country": "Estonia"
+        },
+        {
+          "name": "London",
+          "source_quote": "Pipedrive UK Ltd Wey House, Farnham Road Guildford, Surrey England GU1 4YD",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Lisbon",
+          "source_quote": "Pipedrive Portugal, Unipessoal Lda Avenida Casal Ribeiro, 16 1000-092 Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "name": "Berlin",
+          "source_quote": "Pipedrive Germany GmbH Uhlandstraße 32, c/o Mindspace Germany GmbH 10719 Berlin",
+          "country": "Germany"
+        },
+        {
+          "name": "Prague",
+          "source_quote": "Pipedrive Prague s.r.o. Pernerova 697/35 Karlín, 186 00 Praha 8",
+          "country": "Czech Republic"
+        },
+        {
+          "name": "Dublin",
+          "source_quote": "Pipedrive Ireland Ltd Riverside One, Sir John Rogerson's Quay Dublin 2, D02 X576",
+          "country": "Ireland"
+        },
+        {
+          "name": "Riga",
+          "source_quote": "Pipedrive Latvia SIA Aspazijas bulvāris 30 - 8 LV1050 Rīga",
+          "country": "Latvia"
+        }
+      ],
+      "relationships": [
+        {
+          "source": "Paulo Cunha",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "Paulo Cunha Pipedrive CEO"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "OFFERS",
+          "target": "CRM",
+          "source_quote": "Pipedrive is the easy and effective CRM for small and medium-sized companies."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "New York",
+          "source_quote": "Pipedrive Inc. 530 Fifth Avenue, 8th floor, Suite 802 New York, NY 10036"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "St. Petersburg",
+          "source_quote": "Pipedrive Inc. 333 3rd Avenue North, Suite 500C St. Petersburg, FL 33701"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Tallinn",
+          "source_quote": "Pipedrive OÜ Mustamäe tee 3a 10615 Tallinn, Harju maakond"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Tartu",
+          "source_quote": "Pipedrive OÜ Paju 2 Tartu 50603"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "London",
+          "source_quote": "Pipedrive UK Ltd Wey House, Farnham Road Guildford, Surrey England GU1 4YD"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Lisbon",
+          "source_quote": "Pipedrive Portugal, Unipessoal Lda Avenida Casal Ribeiro, 16 1000-092 Lisboa"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Berlin",
+          "source_quote": "Pipedrive Germany GmbH Uhlandstraße 32, c/o Mindspace Germany GmbH 10719 Berlin"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Prague",
+          "source_quote": "Pipedrive Prague s.r.o. Pernerova 697/35 Karlín, 186 00 Praha 8"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Dublin",
+          "source_quote": "Pipedrive Ireland Ltd Riverside One, Sir John Rogerson's Quay Dublin 2, D02 X576"
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Riga",
+          "source_quote": "Pipedrive Latvia SIA Aspazijas bulvāris 30 - 8 LV1050 Rīga"
+        }
+      ]
+    },
+    "kept": 26,
+    "dropped": []
+  },
+  {
+    "company": "Pipedrive",
+    "url": "https://www.pipedrive.com/en/partner",
+    "rid": "0feb38cb257e2e8f4718d923",
+    "extracted_at": "2026-10-29T08:37:16+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Pipedrive",
+          "source_quote": "Partner with us and grow with the #1 rated sales CRM for SMBs"
+        }
+      ],
+      "people": [],
+      "products": [],
+      "integrations": [],
+      "locations": [],
+      "relationships": []
+    },
+    "kept": 2,
+    "dropped": [
+      {
+        "kind": "relationship",
+        "name": "Juho Koski WORKS_AT Zimple",
+        "quote": "Chief Operating Officer @Zimple",
+        "reason": "missing endpoint"
+      },
+      {
+        "kind": "relationship",
+        "name": "Pipedrive PARTNERS_WITH Zimple",
+        "quote": "Pipedrive is a great partner.",
+        "reason": "missing endpoint"
+      }
+    ]
+  },
+  {
+    "company": "Pipedrive",
+    "url": "https://www.pipedrive.com/en/marketplace",
+    "rid": "6de0b3ea33a77cb2aa67c609",
+    "extracted_at": "2026-10-29T08:37:22+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Pipedrive",
+          "source_quote": "100,000+ users across the globe are scaling their business with Pipedrive marketplace"
+        }
+      ],
+      "people": [],
+      "products": [],
+      "integrations": [
+        {
+          "name": "WhatsApp Business",
+          "source_quote": "Manage WhatsApp conversations directly in Pipedrive and link chats directly to deals."
+        },
+        {
+          "name": "Surfe",
+          "source_quote": "Surfe saves you time and improves your outreach by bringing Pipedrive on top of LinkedIn."
+        },
+        {
+          "name": "Apollo.io",
+          "source_quote": "Find and close your next deal with Apollo’s end-to-end sales platform – powered by the most accurate B2B data with 275M+ contacts and 73M+ companies."
+        },
+        {
+          "name": "Zapier",
+          "source_quote": "Zapier automatically moves info between Pipedrive and the other apps you use every day – so you can focus on your most important work."
+        },
+        {
+          "name": "Microsoft Teams",
+          "source_quote": "Get Pipedrive updates in Teams, and schedule and join video meetings from Pipedrive. Keep your team ready to close that next big deal."
+        },
+        {
+          "name": "Google Meet",
+          "source_quote": "Manage, schedule and launch Google Meet calls from Pipedrive to streamline your sales communication."
+        },
+        {
+          "name": "DocuSign",
+          "source_quote": "Simplify and accelerate the time to reach an agreement by creating DocuSign envelopes in Pipedrive."
+        },
+        {
+          "name": "PandaDoc - Proposals, e-signatures, and CPQ",
+          "source_quote": "PandaDoc's document automation and CPQ solution streamlines creating, configuring, pricing, quoting, approving and eSigning proposals and contracts."
+        },
+        {
+          "name": "QuickBooks",
+          "source_quote": "Forget about lengthy accounting processes and simplify your invoice creation with the QuickBooks - Pipedrive integration."
+        },
+        {
+          "name": "Stripe",
+          "source_quote": "Track, create & sync Stripe Customers and the Invoices & Payments associated with them to efficiently manage your finances."
+        },
+        {
+          "name": "Asana",
+          "source_quote": "The Pipedrive-Asana automatically creates an Asana task or project when you start, close or move a deal to a selected stage in your sales pipeline."
+        },
+        {
+          "name": "Trello",
+          "source_quote": "Trello’s boards, lists and cards allow you to organize and prioritize your projects in a fun, flexible and rewarding way."
+        },
+        {
+          "name": "CloudTalk: AI Dialer & CTI",
+          "source_quote": "Dial 10x faster with AI Sales Dialer. Auto-log calls, recordings, and AI sentiment to Deals. Local numbers in 160+ countries."
+        },
+        {
+          "name": "Zendesk",
+          "source_quote": "Sync Zendesk and Pipedrive to know who to contact and quickly create tickets or deals."
+        }
+      ],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "WhatsApp Business",
+          "source_quote": "Manage WhatsApp conversations directly in Pipedrive and link chats directly to deals."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Surfe",
+          "source_quote": "Surfe saves you time and improves your outreach by bringing Pipedrive on top of LinkedIn."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Apollo.io",
+          "source_quote": "Find and close your next deal with Apollo’s end-to-end sales platform – powered by the most accurate B2B data with 275M+ contacts and 73M+ companies."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Zapier",
+          "source_quote": "Zapier automatically moves info between Pipedrive and the other apps you use every day – so you can focus on your most important work."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Microsoft Teams",
+          "source_quote": "Get Pipedrive updates in Teams, and schedule and join video meetings from Pipedrive. Keep your team ready to close that next big deal."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Google Meet",
+          "source_quote": "Manage, schedule and launch Google Meet calls from Pipedrive to streamline your sales communication."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "DocuSign",
+          "source_quote": "Simplify and accelerate the time to reach an agreement by creating DocuSign envelopes in Pipedrive."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "PandaDoc - Proposals, e-signatures, and CPQ",
+          "source_quote": "PandaDoc's document automation and CPQ solution streamlines creating, configuring, pricing, quoting, approving and eSigning proposals and contracts."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "QuickBooks",
+          "source_quote": "Forget about lengthy accounting processes and simplify your invoice creation with the QuickBooks - Pipedrive integration."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Stripe",
+          "source_quote": "Track, create & sync Stripe Customers and the Invoices & Payments associated with them to efficiently manage your finances."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Asana",
+          "source_quote": "The Pipedrive-Asana automatically creates an Asana task or project when you start, close or move a deal to a selected stage in your sales pipeline."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Trello",
+          "source_quote": "Trello’s boards, lists and cards allow you to organize and prioritize your projects in a fun, flexible and rewarding way."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "CloudTalk: AI Dialer & CTI",
+          "source_quote": "Dial 10x faster with AI Sales Dialer. Auto-log calls, recordings, and AI sentiment to Deals. Local numbers in 160+ countries."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "INTEGRATES_WITH",
+          "target": "Zendesk",
+          "source_quote": "Sync Zendesk and Pipedrive to know who to contact and quickly create tickets or deals."
+        }
+      ]
+    },
+    "kept": 15,
+    "dropped": []
+  },
+  {
+    "company": "Pipedrive",
+    "url": "https://www.pipedrive.com/en/jobs",
+    "rid": "bc78ba9930838dc1163da173",
+    "extracted_at": "2026-10-29T08:37:33+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Pipedrive",
+          "source_quote": "Founded in 2010, Pipedrive is the first AI-powered CRM platform by salespeople for salespeople, driven by a people-first approach."
+        }
+      ],
+      "people": [
+        {
+          "name": "Timo Rein",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind.",
+          "title": "Co-founder",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "Urmas Purde",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind.",
+          "title": "Co-founder",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "Ragnar Sass",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind.",
+          "title": "Co-founder",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "Martin Tajur",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind.",
+          "title": "Co-founder",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "Martin Henk",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind.",
+          "title": "Co-founder",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "Justina Kabelková",
+          "source_quote": "Over the past decade, the company has grown immensely, becoming a Unicorn. Now we have started our next chapter of growth.",
+          "title": "Junior Software Engineer",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "Agur Jõgi",
+          "source_quote": "Working with small businesses around the world and across industries to show how Pipedrive can help them grow has been very empowering to me.",
+          "title": "CTO",
+          "employer": "Pipedrive"
+        },
+        {
+          "name": "John Mills",
+          "source_quote": "Pipedrive is also very flexible whether it be trying something new in role, our hybrid work model w/ our amazing FL office views, or deciding on the next location for team outing.",
+          "title": "Account Executive",
+          "employer": "Pipedrive"
+        }
+      ],
+      "products": [
+        {
+          "name": "CRM",
+          "source_quote": "launched the first CRM tool designed with salespeople’s needs in mind."
+        }
+      ],
+      "integrations": [],
+      "locations": [
+        {
+          "name": "Tallinn",
+          "source_quote": "In 2025, Summer Garage welcomed every Pipedriver from around the world to Tallinn, Estonia – the city where Pipedrive was born.",
+          "country": "Estonia"
+        }
+      ],
+      "relationships": [
+        {
+          "source": "Timo Rein",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind."
+        },
+        {
+          "source": "Urmas Purde",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind."
+        },
+        {
+          "source": "Ragnar Sass",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind."
+        },
+        {
+          "source": "Martin Tajur",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind."
+        },
+        {
+          "source": "Martin Henk",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "In 2010, the Pipedrive co-founders – Timo Rein, Urmas Purde, Ragnar Sass, Martin Tajur and Martin Henk – launched the first CRM tool designed with salespeople’s needs in mind."
+        },
+        {
+          "source": "Justina Kabelková",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "Over the past decade, the company has grown immensely, becoming a Unicorn. Now we have started our next chapter of growth."
+        },
+        {
+          "source": "Agur Jõgi",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "Working with small businesses around the world and across industries to show how Pipedrive can help them grow has been very empowering to me."
+        },
+        {
+          "source": "John Mills",
+          "type": "WORKS_AT",
+          "target": "Pipedrive",
+          "source_quote": "Pipedrive is also very flexible whether it be trying something new in role, our hybrid work model w/ our amazing FL office views, or deciding on the next location for team outing."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "OFFERS",
+          "target": "CRM",
+          "source_quote": "launched the first CRM tool designed with salespeople’s needs in mind."
+        },
+        {
+          "source": "Pipedrive",
+          "type": "LOCATED_IN",
+          "target": "Tallinn",
+          "source_quote": "In 2025, Summer Garage welcomed every Pipedriver from around the world to Tallinn, Estonia – the city where Pipedrive was born."
+        }
+      ]
+    },
+    "kept": 19,
+    "dropped": []
+  },
+  {
+    "company": "Zendesk",
+    "url": "https://www.zendesk.com/",
+    "rid": "6233c6565573ab0adc4c7395",
+    "extracted_at": "2026-10-29T08:41:39+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Zendesk",
+          "source_quote": "Zendesk is an AI-first service platform powered by self-learning AI agents and the Zendesk Resolution Platform."
+        }
+      ],
+      "people": [],
+      "products": [
+        {
+          "name": "Zendesk Resolution Platform",
+          "source_quote": "Deliver faster, higher quality resolutions with the only AI-first service platform"
+        },
+        {
+          "name": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "name": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "name": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "name": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "name": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "name": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "name": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ],
+      "integrations": [],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Zendesk Resolution Platform",
+          "source_quote": "Deliver faster, higher quality resolutions with the only AI-first service platform"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ]
+    },
+    "kept": 18,
+    "dropped": [
+      {
+        "kind": "relationship",
+        "name": "Noah Kardos-Fein WORKS_AT Vimeo",
+        "quote": "Noah Kardos-Fein Director of Digital Support at Vimeo",
+        "reason": "missing endpoint"
+      }
+    ]
+  },
+  {
+    "company": "Zendesk",
+    "url": "https://www.zendesk.com/company",
+    "rid": "e14b510c5092046c2a893bf5",
+    "extracted_at": "2026-10-29T08:41:43+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Zendesk",
+          "source_quote": "At Zendesk we’re on a mission to simplify the complexity of business and make it easy for companies and customers to create connections."
+        }
+      ],
+      "people": [],
+      "products": [
+        {
+          "name": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "name": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "name": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "name": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "name": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "name": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "name": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ],
+      "integrations": [],
+      "locations": [
+        {
+          "name": "San Francisco",
+          "source_quote": "HQ San Francisco",
+          "country": "United States"
+        },
+        {
+          "name": "Austin",
+          "source_quote": "Austin",
+          "country": "United States"
+        },
+        {
+          "name": "Bangalore",
+          "source_quote": "Bangalore",
+          "country": "India"
+        },
+        {
+          "name": "Berlin",
+          "source_quote": "Berlin",
+          "country": "Germany"
+        }
+      ],
+      "relationships": [
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "San Francisco",
+          "source_quote": "HQ San Francisco"
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Austin",
+          "source_quote": "Austin"
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Bangalore",
+          "source_quote": "Bangalore"
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Berlin",
+          "source_quote": "Berlin"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ]
+    },
+    "kept": 16,
+    "dropped": []
+  },
+  {
+    "company": "Zendesk",
+    "url": "https://www.zendesk.com/partner",
+    "rid": "23ccc45085357d821a2c458f",
+    "extracted_at": "2026-10-29T08:41:45+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Zendesk",
+          "source_quote": "Learn why Zendesk is the leader in AI customer service"
+        }
+      ],
+      "people": [],
+      "products": [
+        {
+          "name": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "name": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "name": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "name": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "name": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "name": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "name": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ],
+      "integrations": [],
+      "locations": [],
+      "relationships": [
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ]
+    },
+    "kept": 8,
+    "dropped": []
+  },
+  {
+    "company": "Zendesk",
+    "url": "https://www.zendesk.com/marketplace",
+    "rid": "60bb81ee36abde9668d5bf62",
+    "extracted_at": "2026-10-29T08:42:03+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Zendesk",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        }
+      ],
+      "people": [],
+      "products": [
+        {
+          "name": "Thank You AI GPT",
+          "source_quote": "Auto-solves tickets reopened by a thank-you, in any language. Free 30-day trial."
+        },
+        {
+          "name": "Shredder",
+          "source_quote": "Automate bulk suspended ticket process. Manage spam with the help of rules in your Zendesk."
+        },
+        {
+          "name": "SweetHawk Suite",
+          "source_quote": "Get all SweetHawk apps for a sweet price"
+        },
+        {
+          "name": "GIPHY",
+          "source_quote": "Add GIFS and Stickers from GIPHY"
+        },
+        {
+          "name": "Fullstory",
+          "source_quote": "Resolve tickets faster with AI-generated summaries of every user session."
+        },
+        {
+          "name": "Shopify for Zendesk",
+          "source_quote": "Display customer and order details from Shopify"
+        },
+        {
+          "name": "Zendesk for TikTok Shop",
+          "source_quote": "Connect your TikTok Shop with Zendesk Support."
+        },
+        {
+          "name": "Klaviyo",
+          "source_quote": "View Klaviyo profile info, consent status, and send WhatsApp follow-ups from Zendesk."
+        },
+        {
+          "name": "VOC Patterns",
+          "source_quote": "Proactively analyze tickets to reveal trends, issues, and opportunities."
+        },
+        {
+          "name": "Conversation Training Simulator",
+          "source_quote": "Create tailored training scenarios for agents with Conversation Training Simulator by Zendesk Labs."
+        },
+        {
+          "name": "Relay",
+          "source_quote": "Create & send WhatsApp and SMS campaigns with this app by Zendesk Labs."
+        }
+      ],
+      "integrations": [
+        {
+          "name": "Shopify",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        },
+        {
+          "name": "Instagram",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        },
+        {
+          "name": "HubSpot",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        },
+        {
+          "name": "Google Drive",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        }
+      ],
+      "locations": [
+        {
+          "name": "Odense",
+          "source_quote": "helphouse.io is the largest Zendesk Master Partner in Europe and we help some of the biggest brands optimize their customer service workflows by implementing best practice- and custom solutions in Zendesk, that can be seen on the bottom line.",
+          "country": "Denmark"
+        },
+        {
+          "name": "Oslo",
+          "source_quote": "SoftwareOne and Crayon are now one. By combining Norway's only certified Zendesk Premier Partner expertise with global IT scale, we help organizations build scalable, efficient, and AI-driven customer experiences.",
+          "country": "Norway"
+        },
+        {
+          "name": "Ternopil",
+          "source_quote": "Trusted Zendesk Data Migration Partner. Migrate to Zendesk flawlessly from 100+ platforms — with no business downtime.",
+          "country": "Ukraine"
+        },
+        {
+          "name": "Barcelona",
+          "source_quote": "We were born with the main goal of renewing the classical customer service model, adapting the new technologies to the needs of our customers.",
+          "country": "Spain"
+        }
+      ],
+      "relationships": [
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Thank You AI GPT",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Shredder",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "SweetHawk Suite",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "GIPHY",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Fullstory",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Shopify for Zendesk",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Zendesk for TikTok Shop",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Klaviyo",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "VOC Patterns",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Conversation Training Simulator",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Relay",
+          "source_quote": "Trouvez des applications, des connecteurs, des thèmes et tout ce dont vous avez besoin sur le Marketplace"
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Odense",
+          "source_quote": "helphouse.io is the largest Zendesk Master Partner in Europe and we help some of the biggest brands optimize their customer service workflows by implementing best practice- and custom solutions in Zendesk, that can be seen on the bottom line."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Oslo",
+          "source_quote": "SoftwareOne and Crayon are now one. By combining Norway's only certified Zendesk Premier Partner expertise with global IT scale, we help organizations build scalable, efficient, and AI-driven customer experiences."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Ternopil",
+          "source_quote": "Trusted Zendesk Data Migration Partner. Migrate to Zendesk flawlessly from 100+ platforms — with no business downtime."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Barcelona",
+          "source_quote": "We were born with the main goal of renewing the classical customer service model, adapting the new technologies to the needs of our customers."
+        },
+        {
+          "source": "Zendesk",
+          "type": "INTEGRATES_WITH",
+          "target": "Shopify",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        },
+        {
+          "source": "Zendesk",
+          "type": "INTEGRATES_WITH",
+          "target": "Instagram",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        },
+        {
+          "source": "Zendesk",
+          "type": "INTEGRATES_WITH",
+          "target": "HubSpot",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        },
+        {
+          "source": "Zendesk",
+          "type": "INTEGRATES_WITH",
+          "target": "Google Drive",
+          "source_quote": "we’re making popular apps and integrations for Zendesk Marketplace and have made integrations to Instagram, Shopify, HubSpot, and Google Drive to mention a few."
+        }
+      ]
+    },
+    "kept": 35,
+    "dropped": [
+      {
+        "kind": "relationship",
+        "name": "Zendesk PARTNERS_WITH helphouse.io",
+        "quote": "helphouse.io is the largest Zendesk Master Partner in Europe and we help some of the biggest brands optimize their customer service workflows by implementing best practice- and custom solutions in Zendesk, that can be seen on the bottom line.",
+        "reason": "missing endpoint"
+      },
+      {
+        "kind": "relationship",
+        "name": "Zendesk PARTNERS_WITH SoftwareOne",
+        "quote": "SoftwareOne and Crayon are now one. By combining Norway's only certified Zendesk Premier Partner expertise with global IT scale, we help organizations build scalable, efficient, and AI-driven customer experiences.",
+        "reason": "missing endpoint"
+      },
+      {
+        "kind": "relationship",
+        "name": "Zendesk PARTNERS_WITH Help Desk Migration by Relokia | Automated Data Migration to Zendesk | Consulting",
+        "quote": "Trusted Zendesk Data Migration Partner. Migrate to Zendesk flawlessly from 100+ platforms — with no business downtime.",
+        "reason": "missing endpoint"
+      },
+      {
+        "kind": "relationship",
+        "name": "Zendesk PARTNERS_WITH DIGAMELON",
+        "quote": "We were born with the main goal of renewing the classical customer service model, adapting the new technologies to the needs of our customers.",
+        "reason": "missing endpoint"
+      }
+    ]
+  },
+  {
+    "company": "Zendesk",
+    "url": "https://www.zendesk.com/company/careers",
+    "rid": "bd6be4789e015caa4c56aeff",
+    "extracted_at": "2026-10-29T08:42:13+00:00",
+    "result": {
+      "companies": [
+        {
+          "name": "Zendesk",
+          "source_quote": "Learn why Zendesk is the leader in AI customer service"
+        }
+      ],
+      "people": [
+        {
+          "name": "Łukasz",
+          "source_quote": "You can’t build something at the scale that we do at Zendesk on your own.",
+          "title": "Director of Software Engineering",
+          "employer": "Zendesk"
+        }
+      ],
+      "products": [
+        {
+          "name": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "name": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "name": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "name": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "name": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "name": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "name": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        }
+      ],
+      "integrations": [],
+      "locations": [
+        {
+          "name": "Austin",
+          "source_quote": "Austin is our latest GTM hub where Sales, Marketing, Customer Success, and Support teams work side-by-side to help customers get the most out of Zendesk.",
+          "country": "United States"
+        },
+        {
+          "name": "Pune",
+          "source_quote": "Pune is home to our main APAC engineering hub, driving AI-powered innovation and operational excellence.",
+          "country": "India"
+        },
+        {
+          "name": "Kraków",
+          "source_quote": "One of our largest European hubs, where engineering, product, and GTM teams build what's next in AI-powered CX and EX.",
+          "country": "Poland"
+        },
+        {
+          "name": "San Francisco",
+          "source_quote": "San Francisco is our global headquarters, home to our most important hub, where product, engineering, and go-to-market work side by side to shape what's next in AI.",
+          "country": "United States"
+        },
+        {
+          "name": "Singapore",
+          "source_quote": "Singapore is our APAC headquarters, where teams build and sell the AI-powered platform that's changing how the region does customer service.",
+          "country": "Singapore"
+        },
+        {
+          "name": "Lisbon",
+          "source_quote": "One of our fastest-growing hubs, where product development and GTM teams work side-by-side to build and launch what’s next in AI.",
+          "country": "Portugal"
+        }
+      ],
+      "relationships": [
+        {
+          "source": "Łukasz",
+          "type": "WORKS_AT",
+          "target": "Zendesk",
+          "source_quote": "You can’t build something at the scale that we do at Zendesk on your own."
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Customer Service",
+          "source_quote": "Manage and resolve customer inquiries across all channels in one place"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Employee Service",
+          "source_quote": "Give employees the fastest resolutions through a scalable, intuitive platform"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Contact Center",
+          "source_quote": "Deliver AI-powered resolutions for every call, every channel, every time"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "AI agents",
+          "source_quote": "Resolve even the most complex issues on any channel autonomously"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Copilot",
+          "source_quote": "Empower service teams with the only proactive AI assistant"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Quality assurance",
+          "source_quote": "Improve your service overtime with automatic human and AI agent scoring"
+        },
+        {
+          "source": "Zendesk",
+          "type": "OFFERS",
+          "target": "Workforce Management",
+          "source_quote": "Forecast, staff, and manage agent schedules with AI-powered precision"
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Austin",
+          "source_quote": "Austin is our latest GTM hub where Sales, Marketing, Customer Success, and Support teams work side-by-side to help customers get the most out of Zendesk."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Pune",
+          "source_quote": "Pune is home to our main APAC engineering hub, driving AI-powered innovation and operational excellence."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Kraków",
+          "source_quote": "One of our largest European hubs, where engineering, product, and GTM teams build what's next in AI-powered CX and EX."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "San Francisco",
+          "source_quote": "San Francisco is our global headquarters, home to our most important hub, where product, engineering, and go-to-market work side by side to shape what's next in AI."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Singapore",
+          "source_quote": "Singapore is our APAC headquarters, where teams build and sell the AI-powered platform that's changing how the region does customer service."
+        },
+        {
+          "source": "Zendesk",
+          "type": "LOCATED_IN",
+          "target": "Lisbon",
+          "source_quote": "One of our fastest-growing hubs, where product development and GTM teams work side-by-side to build and launch what’s next in AI."
+        }
+      ]
+    },
+    "kept": 29,
+    "dropped": []
+  }
+]

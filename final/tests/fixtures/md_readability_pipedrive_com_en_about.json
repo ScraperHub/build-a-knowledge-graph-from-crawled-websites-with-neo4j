@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "cb_status": "200",
+    "original_status": "200",
+    "url": "https://www.pipedrive.com/en/about"
+  },
+  "body": "### Our CRM mission statement\n\nPipedrive is the easy and effective CRM for small and medium-sized companies.\n\nWe empower SMBs to unlock their business potential and scale with our easy-to-use, affordable and effective CRM.\n\nWith Pipedrive, you can track your sales pipeline, manage leads and automate your entire sales process from one central place – so you can focus on selling. Stay organized, productive and efficient, with access to multiple integrations, automation, reporting, dashboards and more."
+}

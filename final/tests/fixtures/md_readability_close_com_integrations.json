@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "cb_status": "200",
+    "original_status": "308",
+    "url": "https://close.com/integrations"
+  },
+  "body": "![](https://cdn.sanity.io/images/qshgei9f/production/e12953a7f940f0aea4dee7e4169a74f0f3265c7f-264x257.svg?rect=4,0,257,257&w=48&h=48&fit=max)\n### LeadJourney\n\nSend Close conversions to Meta, Google, LinkedIn, and TikTok server-side for accurate ad attribution."
+}

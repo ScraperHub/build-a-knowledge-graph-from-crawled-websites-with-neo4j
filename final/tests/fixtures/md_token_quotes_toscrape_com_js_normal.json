@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "cb_status": "200",
+    "original_status": "200",
+    "url": "https://quotes.toscrape.com/js/"
+  },
+  "body": "[Login](https://quotes.toscrape.com/login)"
+}

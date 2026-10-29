@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "headers": {
+    "content-type": "text/markdown; charset=utf-8",
+    "cb_status": "200",
+    "original_status": "308",
+    "url": "https://close.com/about"
+  },
+  "body": "Before Close was a CRM, we were a sales team.\n\nAfter Y Combinator, our founders started ElasticSales and did outbound sales for other startups. They spent their days calling, emailing, demoing, and following up with thousands of leads.\n\nThey tried plenty of CRMs. Most were better at keeping track of sales than helping the team actually sell.\n\nSo they built their own.\n\nOther startups started asking if they could use it too.\n\nIn 2013, that internal tool became Close."
+}
